@@ -1,0 +1,6 @@
+rawinputfile=snp3kvars-OS03G0388600-raw data.csv
+nonSynonymousinputfile=snp3kvars-OS03G0388600-non synon.csv
+noofSNP=17
+noofNonsynSNP=4
+percentageofnegligence=5
+subpopulationcolumn=4

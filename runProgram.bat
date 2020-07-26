@@ -1,0 +1,1 @@
+haplotypemain.py input.txt replace.txt
